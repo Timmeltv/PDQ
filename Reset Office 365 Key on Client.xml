@@ -7,7 +7,7 @@
     <SuccessCodesText>0</SuccessCodesText>
     <Timeout>00:03:00</Timeout>
     <WakeOnLan value="false" />
-    <CustomToolType>System</CustomToolType>
+    <CustomToolType>Remote</CustomToolType>
     <CommandLine>#store the license info into an array
 $license = cscript 'C:\Program Files (x86)\Microsoft Office\Office16\OSPP.VBS' /dstatus
 #license name from /dstatus
